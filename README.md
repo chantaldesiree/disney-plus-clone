@@ -7,3 +7,7 @@ A simple Disney+ clone built using React, Redux, Google Authentication and Googl
 If you would like to download the app and run it locally, you can download the zip file, and from a terminal you can download all of the node modules by running either the command 'npm install' or 'yarn install', depending on the package manager you are using.
 
 When you're finished downloading the dependencies, just type 'npm start' to run the app. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+![](https://github.com/chantaldesiree/disney-plus-clone/blob/main/public/images/001-login.png)
+![](https://github.com/chantaldesiree/disney-plus-clone/blob/main/public/images/002-home.png)
+![](https://github.com/chantaldesiree/disney-plus-clone/blob/main/public/images/003-details.png)
